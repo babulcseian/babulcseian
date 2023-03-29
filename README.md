@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Babul Islam</h1>
-<h3 align="center">A Passionate in the Researcher in the Domain of Data Science, Machine Learning, Deep Learning, AI Healthcare and Bioinformatics</h3>
+<h3 align="center">A Passionate in the Research in the Domain of Data Science, Machine Learning, Deep Learning, AI Healthcare and Bioinformatics</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
